@@ -21,3 +21,8 @@
             - 
             - 
         * SG_SCRAMBLING
+
+### August 8, 2024
+* We will create a quick web app that utilizes the machine learning model
+* We must first convert the .h5 model format into something usable for HTML, CSS & JS
+    * use tensorflowjs to convert the .h5 model to a .json
