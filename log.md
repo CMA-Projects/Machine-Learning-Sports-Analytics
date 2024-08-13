@@ -26,3 +26,8 @@
 * We will create a quick web app that utilizes the machine learning model
 * We must first convert the .h5 model format into something usable for HTML, CSS & JS
     * use tensorflowjs to convert the .h5 model to a .json
+
+###  August 13, 2024
+* Finished creating the web app with working models
+* If needed, we can easily update the model to better fit the prediction
+* Next class, we will go over how to host the web app online for free
